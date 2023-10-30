@@ -1,5 +1,5 @@
 # VMKA101
-This repository contains the data for the phylogentic analysis of the following 16sRNA gene sequences:
+This repository contains the data for the phylogenetic analysis of the following 16sRNA gene sequences:
 >MZ433194 VMKA101;
 >MZ540414 VMKA102;
 >MZ801770 VMKA103;
@@ -11,8 +11,6 @@ This repository contains the data for the phylogentic analysis of the following 
 >Klebsiella pneumoniae strain ATCC 13883;
 >Klebsiella variicola strain F2R9;
 >Klebsiella variicola strain LX3;
->Klebsiella variicola strain 13450;
->Klebsiella variicola strain NM43 TS4-1;
 >Klebsiella variicola strain NCTC9668;
 >Klebsiella pneumoniae strain DSM 30104;
 >Klebsiella variicola strain ML.9ba2
